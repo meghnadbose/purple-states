@@ -31,3 +31,7 @@ If a state flipped in 2020 (compared to 2016), it would get 50 added to its Flip
 A flip in the 2000 election (compared to 1996) would only lead to an addition of 1.5625 to the score.
 
 The sum of these scores for each state gave the Flip Meter score for that state.
+
+<h2>Potential Improvements</h2>
+
+One way I would like to improve the story further is by calculating the z-scores of the two metrics and creating a combined metric, which would then give us overall swingy-ness ranks.
